@@ -38,6 +38,9 @@ target.innerHTML += `<!--Navigation Bar Start-->
           <li class="nav-item">
             <a class="nav-link" href="index.html#contact">Contact</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="announcement.html">Announcement</a>
+          </li>
           
 
           <!-- DropDown in Nav Bar Starts-->
