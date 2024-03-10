@@ -1,0 +1,41 @@
+/* Custom styles for the navigation bar */
+.navbar {
+    background-color: #C8E6C9; /* Light green background color */
+    margin-bottom: 20px; 
+}
+.navbar-brand {
+    font-weight: bold;
+    color: #2E7D32; /* Dark green text color */
+}
+.navbar-nav .nav-link {
+    color: #2E7D32; /* Dark green text color */
+    border-bottom: 2px solid transparent; /* Add border bottom to make tabs distinctive */
+    transition: border-color 0.3s; /* Add transition for smoother hover effect */
+    font-weight: bold; /* Make text bold */
+}
+.navbar-nav .nav-link:hover {
+    color: #1B5E20; /* Darker green text color on hover */
+    border-color: #1B5E20; /* Darker green border color on hover */
+}
+.navbar-nav .nav-link.active {
+    color: #1B5E20; /* Darker green text color for active tab */
+    border-color: #1B5E20; /* Darker green border color for active tab */
+}
+.dropdown-menu {
+    background-color: #C8E6C9; /* Light green background color for dropdown menu */
+}
+.dropdown-menu a.dropdown-item {
+    color: #2E7D32; /* Dark green text color for dropdown items */
+}
+.dropdown-menu a.dropdown-item:hover {
+    background-color: #A5D6A7; /* Lighter green background color for dropdown items on hover */
+    color: #1B5E20; /* Darker green text color for dropdown items on hover */
+}
+@media (min-width: 992px) {
+    .navbar {
+        position: fixed; /* Fix the navbar to the top */
+        width: 100%;
+        top: 0;
+        z-index: 1000;
+    }
+}

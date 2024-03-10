@@ -1,0 +1,11 @@
+.banner img {
+    margin-top: 4%; /* Responsive margin-top */
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    /* Adjust margin-top for smaller screens if needed */
+    .banner img {
+        margin-top: 6%; /* Adjust as needed */
+    }
+}

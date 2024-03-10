@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Brock Williams",
+      "institution": "Texas Tech University Lubbock",
+      "location": "USA",
+      "imageUrl": "https://www.math.ttu.edu/williams/images/williams.jpeg",
+      "websiteUrl": "https://www.math.ttu.edu/williams/"
+    },
+    {
+      "name": "Nageswari Shanmugalingam",
+      "institution": "University of Cincinnati",
+      "location": "USA",
+      "imageUrl": "https://webcentral.uc.edu/eprof/media/repository/0190ShanmugalingamNageswari8715.jpg",
+      "websiteUrl": "https://researchdirectory.uc.edu/p/shanmun"
+    },
+    {
+      "name": "Alexander Solynin",
+      "institution": "Texas Tech University Lubbock",
+      "location": "USA",
+      "imageUrl": "https://www.depts.ttu.edu/math/images/Faculty_Photos/Solynin_Alexander.jpg",
+      "websiteUrl": "https://www.math.ttu.edu/~asolynin/"
+    },
+    {
+      "name": "Sudeb Mitra",
+      "institution": "Queens College of the City University of New York, Flushing and Graduate Center of the City University of New York",
+      "location": "USA",
+      "imageUrl": "https://www.qc.cuny.edu/academics/math/wp-content/uploads/sites/42/2022/04/smitra.jpg",
+      "websiteUrl": "https://www.qc.cuny.edu/academics/math/faculty/"
+    },
+    {
+      "name": "Matthew Badger",
+      "institution": "University of Connecticut",
+      "location": "USA",
+      "imageUrl": "https://badger.math.uconn.edu/badger-web.jpg",
+      "websiteUrl": "https://badger.math.uconn.edu/"
+    },
+    {
+      "name": "Michael Dorff",
+      "institution": "Brigham Young University",
+      "location": "USA",
+      "imageUrl": "https://brightspotcdn.byu.edu/dims4/default/8678405/2147483647/strip/true/crop/860x860+0+82/resize/200x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2F3c%2F42%2F2a4b951946ecafd24e8074d8095d%2Fdorff-1.jpg",
+      "websiteUrl": "https://science.byu.edu/directory/michael-dorff"
+    },
+    {
+      "name": "Vyron Vellis",
+      "institution": "University of Tennessee at Knoxville",
+      "location": "USA",
+      "imageUrl": "https://math.utk.edu/wp-content/uploads/2023/11/vellis.webp",
+      "websiteUrl": "https://math.utk.edu/people/vyron-vellis/"
+    }
+  ]
+  

@@ -1,0 +1,43 @@
+.person-container {
+   
+    align-items: center;
+    max-width: 600px;
+    margin: 1%;
+    text-align: center; /* Center the content horizontally */
+    background-color: #f2f2f2;
+}
+.person-image img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle; /* Align the image vertically */
+    background-color: #f2f2f2;
+    padding: 5%;
+}
+.person-details {
+    margin-left: 20px;
+    text-align: center; /* Align text content to the left */
+    background-color: #f2f2f2;
+}
+.person-details h2 {
+    margin-top: 0;
+}
+.person-details p {
+    margin-bottom: 0;
+}
+
+.speaker-image-container {
+    overflow: hidden;
+}
+
+.speaker-image {
+    transition: transform .2s;
+}
+
+.speaker-image:hover {
+    transform: scale(1.1);
+}
+
+/* .card {
+    width: 400px; /* Adjust the width as needed */
+    /* height: 350px; Adjust the height as needed */
+    /*} */

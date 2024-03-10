@@ -1,0 +1,51 @@
+body {
+    font-family: 'Times New Roman', Times;
+  }
+
+  .section-container {
+    background-color: #C8E6C9; /* Light green background color */
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 2%;
+    margin-bottom: 20px; /* Add margin between sections */
+  }
+  
+  
+
+  .section-container h2 {
+    color: #2E7D32; /* Dark green text color */
+  }
+ .sectionHeading {
+
+    font-size: 55px;
+    font-weight: 100;
+    color: #225e25; /* Dark green text color */
+  }
+
+  .sectionContent{
+    text-align: justify;
+  }
+
+  /* Media query for responsive layout */
+  @media screen and (max-width: 768px) {
+    .section-container {
+      padding: 10px;
+    }
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    background-color: #f2f2f2;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 5px;
+  }
