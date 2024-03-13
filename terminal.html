@@ -3,35 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Person Details</title>
+    <title>Image Banner with Overlay Text</title>
     <style>
-        .person-container {
-            display: flex;
-            align-items: center;
-            max-width: 600px;
-            margin: 0 auto;
+        .banner {
+            position: relative;
+            width: 100%;
         }
-        .person-details {
-            margin-left: 20px;
+
+        .banner img {
+            width: 100%;
+            height: auto;
         }
-        .person-details h2 {
-            margin-top: 0;
-        }
-        .person-details p {
-            margin-bottom: 0;
+
+        .overlay-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
     </style>
 </head>
 <body>
-    <div class="person-container">
-        <div class="person-image">
-            <img src="https://www.math.ttu.edu/williams/images/williams.jpeg" alt="Brock Williams">
-        </div>
-        <div class="person-details">
-            <h2>Brock Williams</h2>
-            <p>Texas Tech University, Lubbock</p>
+    <div class="banner">
+        <img src="Images/banner4green.jpg" alt="ICSAMY Site Banner">
+        <div class="overlay-text">
+            Your Text Here
         </div>
     </div>
 </body>
 </html>
-s
