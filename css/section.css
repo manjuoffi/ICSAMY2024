@@ -5,7 +5,7 @@ body {
   .section-container {
     background-color: #C8E6C9; /* Light green background color */
     padding: 20px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+    box-shadow: 0px 14px 20px rgba(0, 0, 0, 0.5); /* Subtle shadow effect */
     display: flex;
     flex-direction: column; /* Stack items vertically */
     justify-content: center;
@@ -13,6 +13,7 @@ body {
     text-align: center;
     margin: 2%;
     margin-bottom: 20px; /* Add margin between sections */
+    border-radius: 25px;
   }
   
   
@@ -22,7 +23,7 @@ body {
   }
  .sectionHeading {
 
-    font-size: 55px;
+    font-size: 40px;
     font-weight: 100;
     color: #225e25; /* Dark green text color */
   }
