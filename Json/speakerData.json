@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
       "name": "Brock Williams",
@@ -273,4 +274,281 @@
       "websiteUrl": null
     }
   ]
+=======
+[
+    {
+      "name": "Brock Williams",
+      "institution": "Texas Tech University Lubbock",
+      "location": "USA",
+      "imageUrl": "https://www.math.ttu.edu/williams/images/williams.jpeg",
+      "websiteUrl": "https://www.math.ttu.edu/williams/"
+    },
+    {
+      "name": "Nageswari Shanmugalingam",
+      "institution": "University of Cincinnati",
+      "location": "USA",
+      "imageUrl": "https://webcentral.uc.edu/eprof/media/repository/0190ShanmugalingamNageswari8715.jpg",
+      "websiteUrl": "https://researchdirectory.uc.edu/p/shanmun"
+    },
+    {
+      "name": "Alexander Solynin",
+      "institution": "Texas Tech University Lubbock",
+      "location": "USA",
+      "imageUrl": "https://www.depts.ttu.edu/math/images/Faculty_Photos/Solynin_Alexander.jpg",
+      "websiteUrl": "https://www.math.ttu.edu/~asolynin/"
+    },
+    {
+      "name": "Sudeb Mitra",
+      "institution": "Queens College of the City University of New York, Flushing and Graduate Center of the City University of New York",
+      "location": "USA",
+      "imageUrl": "https://www.qc.cuny.edu/academics/math/wp-content/uploads/sites/42/2022/04/smitra.jpg",
+      "websiteUrl": "https://www.qc.cuny.edu/academics/math/faculty/"
+    },
+    {
+      "name": "Matthew Badger",
+      "institution": "University of Connecticut",
+      "location": "USA",
+      "imageUrl": "https://badger.math.uconn.edu/badger-web.jpg",
+      "websiteUrl": "https://badger.math.uconn.edu/"
+    },
+    {
+      "name": "Michael Dorff",
+      "institution": "Brigham Young University",
+      "location": "USA",
+      "imageUrl": "https://brightspotcdn.byu.edu/dims4/default/8678405/2147483647/strip/true/crop/860x860+0+82/resize/200x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2F3c%2F42%2F2a4b951946ecafd24e8074d8095d%2Fdorff-1.jpg",
+      "websiteUrl": "https://science.byu.edu/directory/michael-dorff"
+    },
+    {
+      "name": "Vyron Vellis",
+      "institution": "University of Tennessee at Knoxville",
+      "location": "USA",
+      "imageUrl": "https://math.utk.edu/wp-content/uploads/2023/11/vellis.webp",
+      "websiteUrl": "https://math.utk.edu/people/vyron-vellis/"
+    },
+    {
+      "name": "Toshiyuki Sugawa",
+      "institution": "Tohoku University",
+      "location": "Japan",
+      "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WIey2RAAAAAJ&citpid=1",
+      "websiteUrl": "https://scholar.google.fi/citations?user=WIey2RAAAAAJ&hl=en"
+    },
+    {
+      "name": "Manzi Huang",
+      "institution": "Hunan Normal University",
+      "location": "China",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Xiantao Wang",
+      "institution": "Hunan Normal University",
+      "location": "China",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Yaxiang Li",
+      "institution": "Hunan First Normal University",
+      "location": "China",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Pekka Koskela",
+      "institution": "University of Jyväskylä",
+      "location": null,
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Antti Rasila",
+      "institution": "Guangdong Technion, People's Republic of China.",
+      "location": null,
+      "imageUrl": "https://www.gtiit.edu.cn/upload/8fd378a1-3d60-41d7-8498-4402e6e33952.jpg",
+      "websiteUrl": "https://www.gtiit.edu.cn/en/viewStaff.aspx?staffNo=35"
+    },
+    {
+      "name": "Riikka Korte",
+      "institution": "Aalto University",
+      "location": null,
+      "imageUrl": "https://math.aalto.fi/~rkorte/riikka200.jpg",
+      "websiteUrl": "https://math.aalto.fi/~rkorte/"
+    },
+    {
+      "name": "Vesna Todorcevic",
+      "institution": "University of Belgrade",
+      "location": "Serbia",
+      "imageUrl": "https://i1.rgstatic.net/ii/profile.image/320452747038721-1453413296536_Q128/Vesna-Todorcevic.jpg",
+      "websiteUrl": "https://www.researchgate.net/profile/Vesna-Todorcevic"
+    },
+    {
+      "name": "Frode Ronning",
+      "institution": "Sør-Trøndelag University College, Norway",
+      "location": "Germany",
+      "imageUrl": "https://backends.it.ntnu.no/user-profile-service/rest/files/7745e960-313d-34e8-83f6-2ba0a4d633cf",
+      "websiteUrl": "https://www.ntnu.edu/employees/frode.ronning"
+    },
+    {
+      "name": "Gaven Martin",
+      "institution": "Massey University",
+      "location": "New Zealand",
+      "imageUrl": "https://www.massey.ac.nz/massey/fms/expertise/user_images/profile_038933_00F0ADF9-013B-AE7A-D57FF741B5D0196E.jpg",
+      "websiteUrl": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=339830"
+    },
+    {
+      "name": "Ilgiz R Kayumov",
+      "institution": "St. Petersburg State University",
+      "location": "Russia",
+      "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=342hVIUAAAAJ&citpid=5",
+      "websiteUrl": "https://scholar.google.com/citations?user=342hVIUAAAAJ&hl=en"
+    },
+    {
+      "name": "Arpad Baricz",
+      "institution": "Babeş-Bolyai University and Óbuda University",
+      "location": "Romania",
+      "imageUrl": "https://lh3.googleusercontent.com/baVbcOs3HAzjbKMVJoN-elFB03ErG10z5TMhmJcoB7tng5CbgvFaUML0OTMCyI6SSAKv7zvSBWn17RJr3OeeYH0=w16383",
+      "websiteUrl": "https://sites.google.com/site/bariczocsi/"
+    },
+    {
+      "name": "Mark Elin",
+      "institution": "Braude College of Engineering, Israel",
+      "location": "Israel",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Anatoly Golberg",
+      "institution": "Holon Institute of Technology",
+      "location": "Israel",
+      "imageUrl": "https://www.hit.ac.il/.upload/staff/personalImages/sciences/AnatolyGolberg-80x100.png",
+      "websiteUrl": "https://www.hit.ac.il/en/faculty_staff/Anatoly_Golberg"
+    },
+    {
+      "name": "Rahim Kargar",
+      "institution": "University of Turku, Finland",
+      "location": "Iran",
+      "imageUrl": "https://www.utu.fi/sites/default/files/styles/profile_picture_horizontal/public/images/profile/41188131.jpg?itok=C381M3nR",
+      "websiteUrl": "https://www.utu.fi/en/people/rahim-kargar"
+    },
+    {
+      "name": "Yousef Estaremi",
+      "institution": "Golestan University Gorgan, Iran",
+      "location": "Iran",
+      "imageUrl": "https://gu.ac.ir/thumbs/_large_thumbs/a8f1ec94-e001-4192-8d3f-b8c4b9bbb72e.jpg",
+      "websiteUrl": "https://gu.ac.ir/en/faculty/Yousef%20Estaremi"
+    },
+    {
+      "name": "Ebrahim Analouei Adegani",
+      "institution": "Shahrood University of Technology Shahroud",
+      "location": "Iran",
+      "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=E9BazEEAAAAJ&citpid=16",
+      "websiteUrl": "https://scholar.google.com/citations?user=E9BazEEAAAAJ&hl=en"
+    },
+    {
+      "name": "Yusuf Abu-Muhanna",
+      "institution": "American University of Sharjah",
+      "location": "UAE",
+      "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xl5e_mUAAAAJ&citpid=1",
+      "websiteUrl": "https://scholar.google.com/citations?user=xl5e_mUAAAAJ&hl=en"
+    },
+    {
+      "name": "R. Balasubramanian",
+      "institution": "Institute of Mathematical Sciences",
+      "location": "India",
+      "imageUrl": "https://www.imsc.res.in/system/files/styles/profile_image/private/faculty/photos/balasubramanian-r.jpg?itok=VHzWDtil",
+      "websiteUrl": "https://www.imsc.res.in/balasubramanian_ramachandran"
+    },
+    {
+      "name": "Kaushal Verma",
+      "institution": "Indian Institute of Science Bangalore",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Vasudeva Rao Allu",
+      "institution": "IIT Bhubaneswar",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "P. Muthukumar",
+      "institution": "IIT Kanpur",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Rakesh Parmar",
+      "institution": "Pondicherry University",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "J K Prajapat",
+      "institution": "Central University of Rajasthan",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Vasudevarao Allu",
+      "institution": "IIT Bhubaneswar",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "P. Muthukumar",
+      "institution": "IIT Kanpur",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Diganta Bora",
+      "institution": "IISER Pune",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Vikramjeet Singh Chandel",
+      "institution": "IIT Kanpur",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Sushil Gorai",
+      "institution": "IISER Kolkata",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Sunanda Naik",
+      "institution": "Gauhati University",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "Priyabrat Gochhayat",
+      "institution": "Sambalpur University",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    },
+    {
+      "name": "K.S. Charak",
+      "institution": "University of Jammu",
+      "location": "India",
+      "imageUrl": null,
+      "websiteUrl": null
+    }
+  ]
+>>>>>>> 885bd2017d705dee7fd1a303d727b7ef262aab03
   
