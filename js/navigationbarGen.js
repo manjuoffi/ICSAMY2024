@@ -9,7 +9,7 @@ target.innerHTML += `<!--Navigation Bar Start-->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            <a class="nav-link" aria-current="page" href="index.html">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="speakers.html">Speakers</a>
@@ -35,9 +35,11 @@ target.innerHTML += `<!--Navigation Bar Start-->
           <li class="nav-item">
             <a class="nav-link" href="abstract.html">Abstract</a>
           </li>
+          <!--
           <li class="nav-item">
             <a class="nav-link" href="index.html#contact">Contact</a>
           </li>
+          -->
           <li class="nav-item">
             <a class="nav-link" href="announcement.html">Announcement</a>
           </li>
@@ -50,8 +52,8 @@ target.innerHTML += `<!--Navigation Bar Start-->
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="index.html#abti">Indore</a></li>
-              <li><a class="dropdown-item" href="index.html#abtiiti">IITT</a></li>
-              <li><a class="dropdown-item" href="index.html#abtdept">Department of Mathematic</a></li>
+              <li><a class="dropdown-item" href="index.html#abtiiti">IIT Indore</a></li>
+              <li><a class="dropdown-item" href="index.html#abtdept">Department of Mathematics</a></li>
             </ul>
           </li> 
          <!-- DropDown in Nav Bar Starts-->
@@ -69,3 +71,4 @@ target.innerHTML += `<!--Navigation Bar Start-->
     </div>
   </nav>
 <!--Navigation Bar ends-->`
+
