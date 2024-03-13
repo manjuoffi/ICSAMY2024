@@ -21,6 +21,8 @@
     color: #1B5E20; /* Darker green text color for active tab */
     border-color: #1B5E20; /* Darker green border color for active tab */
 }
+
+
 .dropdown-menu {
     background-color: #C8E6C9; /* Light green background color for dropdown menu */
 }

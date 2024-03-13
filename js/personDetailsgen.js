@@ -3,7 +3,7 @@ function createSpeakerInfo(id, name, institution, location, imageUrl, websiteUrl
 
     // Create speaker container
     var divCol = document.createElement('div');
-    divCol.className = 'col-lg-4 mb-4';
+    divCol.className = 'col-lg-3 col-md-6 mb-4'; // Adjusted column size for smaller screens
 
     // Create speaker card
     var card = document.createElement('div');
@@ -21,7 +21,7 @@ function createSpeakerInfo(id, name, institution, location, imageUrl, websiteUrl
 
     // Set image style to fit within container while maintaining aspect ratio
     img.style.width = '100%';
-    img.style.height = '100%';
+    img.style.height = '350px'; // Fixed height to maintain consistency
     img.style.objectFit = 'cover'; // Ensure the image covers the entire container
 
     // Create card body
