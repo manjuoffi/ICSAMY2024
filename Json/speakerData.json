@@ -38,7 +38,7 @@
       "name": "Michael Dorff",
       "institution": "Brigham Young University",
       "location": "USA",
-      "imageUrl": "https://brightspotcdn.byu.edu/dims4/default/8678405/2147483647/strip/true/crop/860x860+0+82/resize/200x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2F3c%2F42%2F2a4b951946ecafd24e8074d8095d%2Fdorff-1.jpg",
+      "imageUrl": "Images/speakers/MichaelDorff.png",
       "websiteUrl": "https://science.byu.edu/directory/michael-dorff"
     },
     {
@@ -59,14 +59,14 @@
       "name": "Manzi Huang",
       "institution": "Hunan Normal University",
       "location": "China",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
+      "imageUrl": "Images/speakers/HuangManzi.png",
       "websiteUrl": null
     },
     {
       "name": "Xiantao Wang",
       "institution": "Hunan Normal University",
       "location": "China",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
+      "imageUrl": "Images/speakers/WangXiantao.png",
       "websiteUrl": null
     },
     {
@@ -143,7 +143,7 @@
       "name": "Anatoly Golberg",
       "institution": "Holon Institute of Technology",
       "location": "Israel",
-      "imageUrl": "https://www.hit.ac.il/.upload/staff/personalImages/sciences/AnatolyGolberg-80x100.png",
+      "imageUrl": "Images/speakers/AnatolyGolberg.png",
       "websiteUrl": "https://www.hit.ac.il/en/faculty_staff/Anatoly_Golberg"
     },
     {
@@ -157,7 +157,7 @@
       "name": "Yousef Estaremi",
       "institution": "Golestan University Gorgan, Iran",
       "location": "Iran",
-      "imageUrl": "https://gu.ac.ir/thumbs/_large_thumbs/a8f1ec94-e001-4192-8d3f-b8c4b9bbb72e.jpg",
+      "imageUrl": "Images/speakers/YousefEstaremi.png",
       "websiteUrl": "https://gu.ac.ir/en/faculty/Yousef%20Estaremi"
     },
     {
@@ -227,22 +227,22 @@
       "name": "Diganta Bora",
       "institution": "IISER Pune",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
-      "websiteUrl": null
+      "imageUrl": "Images/speakers/DigantaBorah.png",
+      "websiteUrl": "https://www.iiserpune.ac.in/research/department/mathematics/people/faculty/regular-faculty/diganta-borah/246"
     },
     {
       "name": "Vikramjeet Singh Chandel",
       "institution": "IIT Kanpur",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
-      "websiteUrl": null
+      "imageUrl": "Images/speakers/VikramjeetSingh.png",
+      "websiteUrl": "https://www.iitk.ac.in/new/vikramjeet-singh-chandel"
     },
     {
       "name": "Sushil Gorai",
       "institution": "IISER Kolkata",
       "location": "India",
       "imageUrl": "Images/speakers/unisexualAvatar.png",
-      "websiteUrl": null
+      "websiteUrl": "https://www.iiserkol.ac.in/web/en/people/faculty/dms/sushil-gorai/"
     },
     {
       "name": "Sunanda Naik",
@@ -255,8 +255,8 @@
       "name": "Priyabrat Gochhayat",
       "institution": "Sambalpur University",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
-      "websiteUrl": null
+      "imageUrl": "Images/speakers/PriyabratGochhayat.png",
+      "websiteUrl": "https://www.suniv.ac.in/faculty-profile.php?furl=priyabrat-gochhayat"
     },
     {
       "name": "K.S. Charak",
