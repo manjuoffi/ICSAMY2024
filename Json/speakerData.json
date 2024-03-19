@@ -52,7 +52,7 @@
       "name": "Toshiyuki Sugawa",
       "institution": "Tohoku University",
       "location": "Japan",
-      "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WIey2RAAAAAJ&citpid=1",
+      "imageUrl": "Images/speakers/ToshiyukiSugawa.png",
       "websiteUrl": "https://scholar.google.fi/citations?user=WIey2RAAAAAJ&hl=en"
     },
     {
@@ -115,21 +115,21 @@
       "name": "Gaven Martin",
       "institution": "Massey University",
       "location": "New Zealand",
-      "imageUrl": "https://www.massey.ac.nz/massey/fms/expertise/user_images/profile_038933_00F0ADF9-013B-AE7A-D57FF741B5D0196E.jpg",
+      "imageUrl": "Images/speakers/GavenMartin.png",
       "websiteUrl": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=339830"
     },
     {
       "name": "Ilgiz R Kayumov",
       "institution": "St. Petersburg State University",
       "location": "Russia",
-      "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=342hVIUAAAAJ&citpid=5",
+      "imageUrl": "Images/speakers/IlgizRKayumov.png",
       "websiteUrl": "https://scholar.google.com/citations?user=342hVIUAAAAJ&hl=en"
     },
     {
-      "name": "Arpad Baricz",
+      "name": "Árpád Baricz",
       "institution": "Babeş-Bolyai University and Óbuda University",
       "location": "Romania",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
+      "imageUrl": "Images/speakers/ArpadBaricz.png",
       "websiteUrl": "https://sites.google.com/site/bariczocsi/"
     },
     {
@@ -171,28 +171,28 @@
       "name": "Yusuf Abu-Muhanna",
       "institution": "American University of Sharjah",
       "location": "UAE",
-      "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xl5e_mUAAAAJ&citpid=1",
+      "imageUrl": "Images/speakers/Yusuf Muhanna.png",
       "websiteUrl": "https://scholar.google.com/citations?user=xl5e_mUAAAAJ&hl=en"
     },
     {
       "name": "R. Balasubramanian",
       "institution": "Institute of Mathematical Sciences",
       "location": "India",
-      "imageUrl": "https://www.imsc.res.in/system/files/styles/profile_image/private/faculty/photos/balasubramanian-r.jpg?itok=VHzWDtil",
+      "imageUrl": "Images/speakers/BalasubramanianRamachandran.png",
       "websiteUrl": "https://www.imsc.res.in/balasubramanian_ramachandran"
     },
     {
       "name": "Kaushal Verma",
       "institution": "Indian Institute of Science Bangalore",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
+      "imageUrl": "Images/speakers/KaushalVerma.png",
       "websiteUrl": null
     },
     {
       "name": "Vasudeva Rao Allu",
       "institution": "IIT Bhubaneswar",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
+      "imageUrl": "Images/speakers/vallu.jpg",
       "websiteUrl": null
     },
     {
