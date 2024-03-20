@@ -264,6 +264,13 @@
       "location": "India",
       "imageUrl": "Images/speakers/charak.png",
       "websiteUrl": null
+    },
+     {
+      "name": "Miodrag Mateljević",
+      "institution": "University of Belgrade",
+      "location": "Serbia",
+      "imageUrl": "Images/speakers/Miodrag.png",
+      "websiteUrl": "https://poincare.matf.bg.ac.rs/~miodrag/index_e.html"
     }
   ]
   
