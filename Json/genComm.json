@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Nageswari Shanmugalingam",
+        "institution": "University of Cincinnati",
+        "location": "USA",
+        "imageUrl": "Images/speakers/NageswariShanmugalingam.png",
+        "websiteUrl": "https://researchdirectory.uc.edu/p/shanmun"
+      },
+      {
+        "name": "Swadesh Kumar Sahoo",
+        "institution": "IIT Indore (Convener)",
+        "location": "India",
+        "imageUrl": "Images/speakers/SwadeshKuma Sahoo.png",
+        "websiteUrl": "https://www.iiti.ac.in/people/~swadesh/index.html"
+      },
+      {
+        "name": "Sanjeev Singh",
+        "institution": "IIT Indore (Co-convener)",
+        "location": "India",
+        "imageUrl": "Images/speakers/SanjeevSingh.png",
+        "websiteUrl": "https://www.iiti.ac.in/people/~snjvsngh/Teaching.html"
+      },
+      {
+        "name": "Alexander Solynin",
+        "institution": "Texas Tech University Lubbock",
+        "location": "USA",
+        "imageUrl": "Images/speakers/AlexanderSolynin.png",
+        "websiteUrl": "https://www.math.ttu.edu/~asolynin/"
+      },
+      {
+        "name": "Brock Williams",
+        "institution": "Texas Tech University Lubbock",
+        "location": "USA",
+        "imageUrl": "Images/speakers/BrockWilliams.png",
+        "websiteUrl": "https://www.math.ttu.edu/williams/"
+      }
+]
