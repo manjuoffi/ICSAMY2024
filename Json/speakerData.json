@@ -22,7 +22,7 @@
     },
     {
       "name": "Sudeb Mitra",
-      "institution": "Queens College of the City University of New York, Flushing and Graduate Center of the City University of New York",
+      "institution": "Queens College of the City University of New York",
       "location": "USA",
       "imageUrl": "Images/speakers/SudebMitra.png",
       "websiteUrl": "https://www.qc.cuny.edu/academics/math/faculty/"
@@ -79,21 +79,21 @@
     {
       "name": "Pekka Koskela",
       "institution": "University of Jyväskylä",
-      "location": null,
+      "location": "Finland",
       "imageUrl": "Images/speakers/unisexualAvatar.png",
-      "websiteUrl": null
+      "websiteUrl": "https://www.jyu.fi/en/people/pekka-koskela"
     },
     {
       "name": "Antti Rasila",
-      "institution": "Guangdong Technion, People's Republic of China.",
-      "location": null,
+      "institution": "Guangdong Technion",
+      "location": "China",
       "imageUrl": "https://www.gtiit.edu.cn/upload/8fd378a1-3d60-41d7-8498-4402e6e33952.jpg",
       "websiteUrl": "https://www.gtiit.edu.cn/en/viewStaff.aspx?staffNo=35"
     },
     {
       "name": "Riikka Korte",
       "institution": "Aalto University",
-      "location": null,
+      "location": "Finland",
       "imageUrl": "https://math.aalto.fi/~rkorte/riikka200.jpg",
       "websiteUrl": "https://math.aalto.fi/~rkorte/"
     },
@@ -101,13 +101,13 @@
       "name": "Vesna Todorcevic",
       "institution": "University of Belgrade",
       "location": "Serbia",
-      "imageUrl": "https://i1.rgstatic.net/ii/profile.image/320452747038721-1453413296536_Q128/Vesna-Todorcevic.jpg",
+      "imageUrl": "Images/speakers/Vesna.png",
       "websiteUrl": "https://www.researchgate.net/profile/Vesna-Todorcevic"
     },
     {
       "name": "Frode Ronning",
-      "institution": "Sør-Trøndelag University College, Norway",
-      "location": "Germany",
+      "institution": "Sør-Trøndelag University College",
+      "location": "Norway",
       "imageUrl": "https://backends.it.ntnu.no/user-profile-service/rest/files/7745e960-313d-34e8-83f6-2ba0a4d633cf",
       "websiteUrl": "https://www.ntnu.edu/employees/frode.ronning"
     },
@@ -199,21 +199,21 @@
       "name": "P. Muthukumar",
       "institution": "IIT Kanpur",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
-      "websiteUrl": null
+      "imageUrl": "Images/speakers/Muthukumar.png",
+      "websiteUrl": "https://www.iitk.ac.in/new/p-muthukumar"
     },
     {
       "name": "Rakesh Parmar",
       "institution": "Pondicherry University",
       "location": "India",
-      "imageUrl":"Images/speakers/unisexualAvatar.png",
-      "websiteUrl": null
+      "imageUrl":"Images/speakers/RakeshParmar.png",
+      "websiteUrl": "https://www.pondiuni.edu.in/faculy_profiles/dr-rakesh-kumar-parmar/"
     },
     {
       "name": "J K Prajapat",
       "institution": "Central University of Rajasthan",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
+      "imageUrl": "Images/speakers/Dr-J-K-Prajapat.png",
       "websiteUrl": null
     },
     {
@@ -262,7 +262,7 @@
       "name": "K.S. Charak",
       "institution": "University of Jammu",
       "location": "India",
-      "imageUrl": "Images/speakers/unisexualAvatar.png",
+      "imageUrl": "Images/speakers/charak.png",
       "websiteUrl": null
     }
   ]
