@@ -11,7 +11,7 @@
     height: auto;
     vertical-align: middle; /* Align the image vertically */
     background-color: #f2f2f2;
-    padding: 5%;
+    padding: 4%;
 }
 .person-details {
     margin-left: 20px;
@@ -27,6 +27,7 @@
 
 .speaker-image-container {
     overflow: hidden;
+    padding: 1%;
 }
 
 .speaker-image {
