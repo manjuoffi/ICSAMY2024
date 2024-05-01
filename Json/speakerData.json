@@ -73,14 +73,14 @@
     "name": "Yaxiang Li",
     "institution": "Hunan First Normal University",
     "location": "China",
-    "imageUrl": "Images/speakers/unisexualAvatar.png",
+    "imageUrl": "Images/speakers/Yaxiang.png",
     "websiteUrl": null
   },
   {
     "name": "Pekka Koskela",
     "institution": "University of Jyväskylä",
     "location": "Finland",
-    "imageUrl": "Images/speakers/unisexualAvatar.png",
+    "imageUrl": "Images/speakers/PekkaKoskela.png",
     "websiteUrl": "https://www.jyu.fi/en/people/pekka-koskela"
   },
   {
@@ -90,13 +90,7 @@
     "imageUrl": "https://www.gtiit.edu.cn/upload/8fd378a1-3d60-41d7-8498-4402e6e33952.jpg",
     "websiteUrl": "https://www.gtiit.edu.cn/en/viewStaff.aspx?staffNo=35"
   },
-  {
-    "name": "Riikka Korte",
-    "institution": "Aalto University",
-    "location": "Finland",
-    "imageUrl": "Images/speakers/RiikkaKorte.png",
-    "websiteUrl": "https://math.aalto.fi/~rkorte/"
-  },
+
   {
     "name": "Vesna Todorcevic",
     "institution": "University of Belgrade",
@@ -118,13 +112,7 @@
     "imageUrl": "Images/speakers/GavenMartin.png",
     "websiteUrl": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=339830"
   },
-  {
-    "name": "Ilgiz R Kayumov",
-    "institution": "St. Petersburg State University",
-    "location": "Russia",
-    "imageUrl": "Images/speakers/IlgizRKayumov.png",
-    "websiteUrl": "https://scholar.google.com/citations?user=342hVIUAAAAJ&hl=en"
-  },
+
   {
     "name": "Árpád Baricz",
     "institution": "Babeş-Bolyai University and Óbuda University",
@@ -136,7 +124,7 @@
     "name": "Mark Elin",
     "institution": "Braude College of Engineering, Israel",
     "location": "Israel",
-    "imageUrl": "Images/speakers/unisexualAvatar.png",
+    "imageUrl": "Images/speakers/MarkElin.png",
     "websiteUrl": null
   },
   {
@@ -234,14 +222,14 @@
     "name": "Sushil Gorai",
     "institution": "IISER Kolkata",
     "location": "India",
-    "imageUrl": "Images/speakers/unisexualAvatar.png",
+    "imageUrl": "Images/speakers/SushilGorai.png",
     "websiteUrl": "https://www.iiserkol.ac.in/web/en/people/faculty/dms/sushil-gorai/"
   },
   {
     "name": "Sunanda Naik",
     "institution": "Gauhati University",
     "location": "India",
-    "imageUrl": "Images/speakers/unisexualAvatar.png",
+    "imageUrl": "Images/speakers/SunandaNaik.png",
     "websiteUrl": null
   },
   {
@@ -264,5 +252,97 @@
     "location": "Serbia",
     "imageUrl": "Images/speakers/Miodrag.png",
     "websiteUrl": "https://poincare.matf.bg.ac.rs/~miodrag/index_e.html"
+  },
+
+  {
+    "name": "Molla Basir Ahamed",
+    "institution": "Jadavpur University",
+    "location": "India",
+    "imageUrl": "Images/speakers/MollaBasirAhamed.png",
+    "websiteUrl": "https://jaduniv.irins.org/profile/225158"
+  },
+  {
+    "name": "A. Swaminathan",
+    "institution": "IIT Roorkee",
+    "location": "India",
+    "imageUrl": "Images/speakers/ASwaminathan.png",
+    "websiteUrl": "https://www.iitr.ac.in/~MA/Swaminathan_A_"
+  },
+  {
+    "name": "Amar Deep Sarkar",
+    "institution": "IIT Bhubaneswar",
+    "location": "India",
+    "imageUrl": "Images/speakers/AmarDeepSarkar.png",
+    "websiteUrl": "https://www.iitbbs.ac.in/profile.php/amar/"
+  },
+  {
+    "name": "Md Firoz Ali",
+    "institution": "NIT Durgapur",
+    "location": "India",
+    "imageUrl": "Images/speakers/MdFirozAli.png",
+    "websiteUrl": "https://nitdgp.ac.in/department/mathematics/faculty-10/md-firoz-ali"
+  },
+  {
+    "name": " Vibhuti Arora",
+    "institution": "NIT Calicut",
+    "location": "India",
+    "imageUrl": "Images/speakers/VibhutiArora.png",
+    "websiteUrl": "https://nitc.ac.in/department/mathematics/faculty-and-staff/faculty/bf567a90-6af2-49fa-b117-084f8490aa54"
+  },
+  {
+    "name": "Sairam Kaliraj",
+    "institution": "IIT Ropar",
+    "location": "India",
+    "imageUrl": "Images/speakers/SairamKaliraj.png",
+    "websiteUrl": "https://www.iitrpr.ac.in/mathematics/sairam"
+  },
+  {
+    "name": "Tarakanta Nayak",
+    "institution": "IIT Bhubaneswar",
+    "location": "India",
+    "imageUrl": "Images/speakers/TarakantaNayak.png",
+    "websiteUrl": "https://www.iitbbs.ac.in/profile.php/tnayak/"
+  },
+  {
+    "name": "R Vijayakumar",
+    "institution": "NIT Calicut",
+    "location": "India",
+    "imageUrl": "Images/speakers/RamakrishnanVijayakumar.png",
+    "websiteUrl": "https://nitc.ac.in/department/mathematics/faculty-and-staff/faculty/f4086a63-34bd-4daf-8902-40ff1aa22c4f"
+  },
+  {
+    "name": "V Ravichandran",
+    "institution": "NIT Trichy",
+    "location": "India",
+    "imageUrl": "Images/speakers/VRavichandran.png",
+    "websiteUrl": "https://www.nitt.edu/home/academics/departments/maths/faculty/ravichandran/"
+  },
+  {
+    "name": "Teodor Bulboaca",
+    "institution": "Babeş-Bolyai University",
+    "location": "India",
+    "imageUrl": "Images/speakers/TeodorBulboaca.png",
+    "websiteUrl": "https://www.researchgate.net/profile/Teodor-Bulboaca-2"
+  },
+  {
+    "name": "G.P. Balakumar",
+    "institution": "IIT Palakkad",
+    "location": "India",
+    "imageUrl": "Images/speakers/GPBalakumar.png",
+    "websiteUrl": "https://iitpkd.ac.in/people/gpbalakumar"
+  },
+  {
+    "name": "Gautam Bharali",
+    "institution": "Indian Institute of Science Bangalore",
+    "location": "India",
+    "imageUrl": "Images/speakers/GautamBharali.png",
+    "websiteUrl": "http://www.math.iisc.ac.in/~bharali/"
+  },
+  {
+    "name": "Prachi Mahajan",
+    "institution": " IIT Bombay",
+    "location": "India",
+    "imageUrl": "Images/speakers/PrachiMahajan.png",
+    "websiteUrl": "https://www.math.iitb.ac.in/~prachi/"
   }
 ]
