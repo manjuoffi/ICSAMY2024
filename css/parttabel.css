@@ -1,0 +1,42 @@
+.table-container {
+    margin: 20px auto;
+    padding: 10px; /* Adds some padding for better appearance */
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows boxes to wrap */
+    gap: 20px; /* Space between boxes */
+}
+
+.card {
+    border: 2px solid #ddd; /* Add border to the boxes */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px; /* Inner padding for the boxes */
+    flex: 1 1 calc(30% - 20px); /* Responsive sizing */
+    min-width: 200px; /* Minimum width for smaller screens */
+    background-color: #f9f9f9; /* Background color for boxes */
+}
+
+.card h2 {
+    margin: 0 0 10px; /* Margin for headings */
+}
+
+.card p {
+    margin: 5px 0; /* Margin for paragraphs */
+}
+
+@media (max-width: 768px) {
+    .card {
+        flex: 1 1 calc(100% - 20px); /* Full width on smaller screens */
+    }
+}
+
+#searchInput {
+    width: 100%; /* Full width for the input */
+    max-width: 400px; /* Limit max width for better appearance */
+    margin: 0 auto; /* Centering the input */
+    height: 75px;
+}
+

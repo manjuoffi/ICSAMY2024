@@ -1,0 +1,462 @@
+[
+    {
+     "Name": "Riddhi Mishra",
+     "Affiliation": "University of Jyväskylä",
+     "Country": "Finland"
+    },
+    {
+     "Name": "Sarika Verma",
+     "Affiliation": "University of Jammu",
+     "Country": "India"
+    },
+    {
+     "Name": "Vinayak M",
+     "Affiliation": "NIT Calicut",
+     "Country": "India"
+    },
+    {
+     "Name": "Omendra Mishra",
+     "Affiliation": "Shri Ram Swaroop Memorial University, Lucknow",
+     "Country": "India"
+    },
+    {
+     "Name": "Nilanjan Das",
+     "Affiliation": "ISI Bangalore",
+     "Country": "India"
+    },
+    {
+     "Name": "Kaustav Roy",
+     "Affiliation": "IIT Palakkad",
+     "Country": "India"
+    },
+    {
+     "Name": "Manju Yadav",
+     "Affiliation": "Sant Longowal Institute of Engineering and Technology, Longowal",
+     "Country": "India"
+    },
+    {
+     "Name": "Sabir Ahammed",
+     "Affiliation": "Jadavpur University",
+     "Country": "India"
+    },
+    {
+     "Name": "Subhadip Pal",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Dipon Kumar Mondal",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Sushil Pandit",
+     "Affiliation": "NIT Durgapur",
+     "Country": "India"
+    },
+    {
+     "Name": "Abhishek Pandey",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Soumen Pal",
+     "Affiliation": "IIT Madras",
+     "Country": "India"
+    },
+    {
+     "Name": "Kapil Jaglan",
+     "Affiliation": "IIT Ropar",
+     "Country": "India"
+    },
+    {
+     "Name": "Shankey Kumar",
+     "Affiliation": "IIT Madras",
+     "Country": "India"
+    },
+    {
+     "Name": "Pooja Phogat",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Vibhuti Arora",
+     "Affiliation": "NIT Calicut",
+     "Country": "India"
+    },
+    {
+     "Name": "Himadri Halder",
+     "Affiliation": "IIT Bombay",
+     "Country": "India"
+    },
+    {
+     "Name": "Surya M",
+     "Affiliation": "NIT Calicut",
+     "Country": "India"
+    },
+    {
+     "Name": "Sukanta Das",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Adithya Mayya",
+     "Affiliation": "Manipal Institute of Technology",
+     "Country": "India"
+    },
+    {
+     "Name": "Rajesh Hossain",
+     "Affiliation": "Jadavpur University",
+     "Country": "India"
+    },
+    {
+     "Name": "Sangeerthana R",
+     "Affiliation": "Vellore Institute of Technology, Vellore",
+     "Country": "India"
+    },
+    {
+     "Name": "Sarga Varghese",
+     "Affiliation": "SRM University",
+     "Country": "India"
+    },
+    {
+     "Name": "Nirupam Ghosh",
+     "Affiliation": "IIEST Shibpur",
+     "Country": "Indian "
+    },
+    {
+     "Name": "Umamaheswari S",
+     "Affiliation": "SRM University",
+     "Country": "India"
+    },
+    {
+     "Name": "Athulya P",
+     "Affiliation": "SRM University",
+     "Country": "India"
+    },
+    {
+     "Name": "Arstu",
+     "Affiliation": "Banasthali Vidyapith",
+     "Country": "India"
+    },
+    {
+     "Name": "Anushree Das",
+     "Affiliation": "IISER Mohali",
+     "Country": "India"
+    },
+    {
+     "Name": "Surendra Magar",
+     "Affiliation": "JSPM University Pune",
+     "Country": "India"
+    },
+    {
+     "Name": "Subrat Parida",
+     "Affiliation": "Pondicherry University",
+     "Country": "India"
+    },
+    {
+     "Name": "Eureka Pattnayak",
+     "Affiliation": "IMA Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Subhasmita Jena",
+     "Affiliation": "IMA Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Shiba Prasad Dhal",
+     "Affiliation": "IMA Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Jasbir Parashar",
+     "Affiliation": "IIT Ropar",
+     "Country": "India"
+    },
+    {
+     "Name": "Bivek Kumar Behera",
+     "Affiliation": "IMA Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Bappaditya Bhowmik",
+     "Affiliation": "IIT Kharagpur",
+     "Country": "India"
+    },
+    {
+     "Name": "Prachi Srivastava",
+     "Affiliation": "Shri Ramswaroop Memorial University",
+     "Country": "India"
+    },
+    {
+     "Name": "Aditya Bajpai",
+     "Affiliation": "Lucknow Public College of Professional Studies, Lucknow",
+     "Country": "India"
+    },
+    {
+     "Name": "Kirti Pal",
+     "Affiliation": "Brahmanand P.G. College, Kanpur",
+     "Country": "India"
+    },
+    {
+     "Name": "Michael Dorff",
+     "Affiliation": "Brigham Young University",
+     "Country": "USA"
+    },
+    {
+     "Name": "Sanju Mandal",
+     "Affiliation": "Jadavpur University",
+     "Country": "India"
+    },
+    {
+     "Name": "Balakumar Ganapathi Perumal",
+     "Affiliation": "IIT Palakkad",
+     "Country": "India"
+    },
+    {
+     "Name": "Vijayakumar R",
+     "Affiliation": "NIT Calicut",
+     "Country": "India"
+    },
+    {
+     "Name": "Hussaini Joshua",
+     "Affiliation": "University of Kerala",
+     "Country": "India"
+    },
+    {
+     "Name": "Manish Kumar",
+     "Affiliation": "University of Jammu",
+     "Country": "India"
+    },
+    {
+     "Name": "Aakanksha Jain",
+     "Affiliation": "IIT Palakkad",
+     "Country": "India"
+    },
+    {
+     "Name": "Brock Williams",
+     "Affiliation": "Texas Tech University Lubbock",
+     "Country": "USA"
+    },
+    {
+     "Name": "Nageswari Shanmugalingam",
+     "Affiliation": "University of Cincinnati",
+     "Country": "USA"
+    },
+    {
+     "Name": "Alexander Solynin",
+     "Affiliation": "Texas Tech University Lubbock",
+     "Country": "USA"
+    },
+    {
+     "Name": "Sudeb Mitra",
+     "Affiliation": "City University of New York",
+     "Country": "USA"
+    },
+    {
+     "Name": "Vyron Vellis",
+     "Affiliation": "University of Tennessee at Knoxville",
+     "Country": "USA"
+    },
+    {
+     "Name": "Toshiyuki Sugawa",
+     "Affiliation": "Tohoku University",
+     "Country": "Japan"
+    },
+    {
+     "Name": "Manzi Huang",
+     "Affiliation": "Hunan Normal University",
+     "Country": "China"
+    },
+    {
+     "Name": "Xiantao Wang",
+     "Affiliation": "Hunan Normal University",
+     "Country": "China"
+    },
+    {
+     "Name": "Yaxiang Li",
+     "Affiliation": "Hunan First Normal University",
+     "Country": "China"
+    },
+    {
+     "Name": "Pekka Koskela",
+     "Affiliation": "University of Jyväskylä",
+     "Country": "Finland"
+    },
+    {
+     "Name": "Antti Rasila",
+     "Affiliation": "Guangdong Technion",
+     "Country": "China"
+    },
+    {
+     "Name": "Vesna Todorcevic",
+     "Affiliation": "University of Belgrade",
+     "Country": "Serbia"
+    },
+    {
+     "Name": "Árpád Baricz",
+     "Affiliation": "Babeş-Bolyai University",
+     "Country": "Romania"
+    },
+    {
+     "Name": "R. Balasubramanian",
+     "Affiliation": "Institute of Mathematical Sciences",
+     "Country": "India"
+    },
+    {
+     "Name": "Kaushal Verma",
+     "Affiliation": "IISc Bangalore",
+     "Country": "India"
+    },
+    {
+     "Name": "Vasudeva Rao Allu",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "P. Muthukumar",
+     "Affiliation": "IIT Kanpur",
+     "Country": "India"
+    },
+    {
+     "Name": "Rakesh Parmar",
+     "Affiliation": "Pondicherry University",
+     "Country": "India"
+    },
+    {
+     "Name": "J K Prajapat",
+     "Affiliation": "Central University of Rajasthan",
+     "Country": "India"
+    },
+    {
+     "Name": "Diganta Bora",
+     "Affiliation": "IISER Pune",
+     "Country": "India"
+    },
+    {
+     "Name": "Vikramjeet Singh Chandel",
+     "Affiliation": "IIT Kanpur",
+     "Country": "India"
+    },
+    {
+     "Name": "Sushil Gorai",
+     "Affiliation": "IISER Kolkata",
+     "Country": "India"
+    },
+    {
+     "Name": "Sunanda Naik",
+     "Affiliation": "Gauhati University",
+     "Country": "India"
+    },
+    {
+     "Name": "Priyabrat Gochhayat",
+     "Affiliation": "Sambalpur University",
+     "Country": "India"
+    },
+    {
+     "Name": "K.S. Charak",
+     "Affiliation": "University of Jammu",
+     "Country": "India"
+    },
+    {
+     "Name": "Miodrag Mateljević",
+     "Affiliation": "University of Belgrade",
+     "Country": "Serbia"
+    },
+    {
+     "Name": "Molla Basir Ahamed",
+     "Affiliation": "Jadavpur University",
+     "Country": "India"
+    },
+    {
+     "Name": "A. Swaminathan",
+     "Affiliation": "IIT Roorkee",
+     "Country": "India"
+    },
+    {
+     "Name": "Amar Deep Sarkar",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "Md Firoz Ali",
+     "Affiliation": "NIT Durgapur",
+     "Country": "India"
+    },
+    {
+     "Name": "Sairam Kaliraj",
+     "Affiliation": "IIT Ropar",
+     "Country": "India"
+    },
+    {
+     "Name": "Tarakanta Nayak",
+     "Affiliation": "IIT Bhubaneswar",
+     "Country": "India"
+    },
+    {
+     "Name": "R Vijayakumar",
+     "Affiliation": "NIT Calicut",
+     "Country": "India"
+    },
+    {
+     "Name": "V Ravichandran",
+     "Affiliation": "NIT Trichy",
+     "Country": "India"
+    },
+    {
+     "Name": "Teodor Bulboaca",
+     "Affiliation": "Babeş-Bolyai University",
+     "Country": "Romania"
+    },
+    {
+     "Name": "G.P. Balakumar",
+     "Affiliation": "IIT Palakkad",
+     "Country": "India"
+    },
+    {
+     "Name": "Gautam Bharali",
+     "Affiliation": "IISc Bangalore",
+     "Country": "India"
+    },
+    {
+     "Name": "Prachi Mahajan",
+     "Affiliation": "IIT Bombay",
+     "Country": "India"
+    },
+    {
+     "Name": "Sivaguru R",
+     "Affiliation": "TIFR CAM Bangalore",
+     "Country": "India"
+    },
+    {
+     "Name": "Bappaditya Bhowmik",
+     "Affiliation": "IIT Kharagpur",
+     "Country": "India"
+    },
+    {
+     "Name": "Hiroshi Yanagihara",
+     "Affiliation": "Yamaguchi University",
+     "Country": "Japan"
+    },
+    {
+     "Name": "S. Ponnusamy",
+     "Affiliation": "IIT Madras",
+     "Country": "India"
+    },
+    {
+     "Name": "Zhuang Wang",
+     "Affiliation": "Hunan Normal University",
+     "Country": "China"
+    },
+    {
+      "Name": "Gummidigampatti Youvaraj",
+      "Affiliation": "University of Madras",
+      "Country": "India"
+     },
+     {
+      "Name": "Mohd Yousf",
+      "Affiliation": "Central University of Kashmir",
+      "Country": "India"
+     }
+   ]

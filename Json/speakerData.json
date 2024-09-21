@@ -22,17 +22,10 @@
   },
   {
     "name": "Sudeb Mitra",
-    "institution": "Queens College of the City University of New York",
+    "institution": "City University of New York",
     "location": "USA",
     "imageUrl": "Images/speakers/SudebMitra.png",
     "websiteUrl": "https://www.qc.cuny.edu/academics/math/faculty/"
-  },
-  {
-    "name": "Matthew Badger",
-    "institution": "University of Connecticut",
-    "location": "USA",
-    "imageUrl": "Images/speakers/MatthewBadger.png",
-    "websiteUrl": "https://badger.math.uconn.edu/"
   },
   {
     "name": "Michael Dorff",
@@ -60,21 +53,21 @@
     "institution": "Hunan Normal University",
     "location": "China",
     "imageUrl": "Images/speakers/HuangManzi.png",
-    "websiteUrl": null
+    "websiteUrl": "https://www.researchgate.net/profile/Manzi-Huang"
   },
   {
     "name": "Xiantao Wang",
     "institution": "Hunan Normal University",
     "location": "China",
     "imageUrl": "Images/speakers/WangXiantao.png",
-    "websiteUrl": null
+    "websiteUrl": "https://www.researchgate.net/profile/Wang-Xiantao"
   },
   {
     "name": "Yaxiang Li",
     "institution": "Hunan First Normal University",
     "location": "China",
     "imageUrl": "Images/speakers/Yaxiang.png",
-    "websiteUrl": null
+    "websiteUrl": "https://dl.acm.org/profile/99660774514"
   },
   {
     "name": "Pekka Koskela",
@@ -99,68 +92,11 @@
     "websiteUrl": "https://www.researchgate.net/profile/Vesna-Todorcevic"
   },
   {
-    "name": "Frode Ronning",
-    "institution": "Sør-Trøndelag University College",
-    "location": "Norway",
-    "imageUrl": "https://backends.it.ntnu.no/user-profile-service/rest/files/7745e960-313d-34e8-83f6-2ba0a4d633cf",
-    "websiteUrl": "https://www.ntnu.edu/employees/frode.ronning"
-  },
-  {
-    "name": "Gaven Martin",
-    "institution": "Massey University",
-    "location": "New Zealand",
-    "imageUrl": "Images/speakers/GavenMartin.png",
-    "websiteUrl": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=339830"
-  },
-
-  {
     "name": "Árpád Baricz",
-    "institution": "Babeş-Bolyai University and Óbuda University",
+    "institution": "Babeş-Bolyai University",
     "location": "Romania",
     "imageUrl": "Images/speakers/ArpadBaricz.png",
     "websiteUrl": "https://sites.google.com/site/bariczocsi/"
-  },
-  {
-    "name": "Mark Elin",
-    "institution": "Braude College of Engineering, Israel",
-    "location": "Israel",
-    "imageUrl": "Images/speakers/MarkElin.png",
-    "websiteUrl": null
-  },
-  {
-    "name": "Anatoly Golberg",
-    "institution": "Holon Institute of Technology",
-    "location": "Israel",
-    "imageUrl": "Images/speakers/AnatolyGolberg.png",
-    "websiteUrl": "https://www.hit.ac.il/en/faculty_staff/Anatoly_Golberg"
-  },
-  {
-    "name": "Rahim Kargar",
-    "institution": "University of Turku, Finland",
-    "location": "Iran",
-    "imageUrl": "https://www.utu.fi/sites/default/files/styles/profile_picture_horizontal/public/images/profile/41188131.jpg?itok=C381M3nR",
-    "websiteUrl": "https://www.utu.fi/en/people/rahim-kargar"
-  },
-  {
-    "name": "Yousef Estaremi",
-    "institution": "Golestan University Gorgan, Iran",
-    "location": "Iran",
-    "imageUrl": "Images/speakers/YousefEstaremi.png",
-    "websiteUrl": "https://gu.ac.ir/en/faculty/Yousef%20Estaremi"
-  },
-  {
-    "name": "Ebrahim Analouei Adegani",
-    "institution": "Shahrood University of Technology Shahroud",
-    "location": "Iran",
-    "imageUrl": "Images/speakers/EbrahimAnaloueiAdegani.png",
-    "websiteUrl": "https://scholar.google.com/citations?user=E9BazEEAAAAJ&hl=en"
-  },
-  {
-    "name": "Yusuf Abu-Muhanna",
-    "institution": "American University of Sharjah",
-    "location": "UAE",
-    "imageUrl": "Images/speakers/Yusuf Muhanna.png",
-    "websiteUrl": "https://scholar.google.com/citations?user=xl5e_mUAAAAJ&hl=en"
   },
   {
     "name": "R. Balasubramanian",
@@ -174,14 +110,14 @@
     "institution": "Indian Institute of Science Bangalore",
     "location": "India",
     "imageUrl": "Images/speakers/KaushalVerma.png",
-    "websiteUrl": null
+    "websiteUrl": "https://math.iisc.ac.in/~kverma/"
   },
   {
     "name": "Vasudeva Rao Allu",
     "institution": "IIT Bhubaneswar",
     "location": "India",
     "imageUrl": "Images/speakers/vallu.jpg",
-    "websiteUrl": null
+    "websiteUrl": "https://old.iitbbs.ac.in/profile.php/vasura/"
   },
   {
     "name": "P. Muthukumar",
@@ -202,7 +138,7 @@
     "institution": "Central University of Rajasthan",
     "location": "India",
     "imageUrl": "Images/speakers/Dr-J-K-Prajapat.png",
-    "websiteUrl": null
+    "websiteUrl": "https://curaj.ac.in/faculty/jk-prajapat"
   },
   {
     "name": "Diganta Bora",
@@ -230,7 +166,7 @@
     "institution": "Gauhati University",
     "location": "India",
     "imageUrl": "Images/speakers/SunandaNaik.png",
-    "websiteUrl": null
+    "websiteUrl": "https://gauhati.ac.in/member/technology/applied-sciences/sunanda-naik-%28mathematical-science-division%29"
   },
   {
     "name": "Priyabrat Gochhayat",
@@ -244,7 +180,7 @@
     "institution": "University of Jammu",
     "location": "India",
     "imageUrl": "Images/speakers/charak.png",
-    "websiteUrl": null
+    "websiteUrl": "https://admin.jammuuniversity.ac.in/JUProfiles/profilepage.aspx?id=58"
   },
    {
     "name": "Miodrag Mateljević",
@@ -320,7 +256,7 @@
   {
     "name": "Teodor Bulboaca",
     "institution": "Babeş-Bolyai University",
-    "location": "India",
+    "location": "Romania",
     "imageUrl": "Images/speakers/TeodorBulboaca.png",
     "websiteUrl": "https://www.researchgate.net/profile/Teodor-Bulboaca-2"
   },
@@ -340,9 +276,45 @@
   },
   {
     "name": "Prachi Mahajan",
-    "institution": " IIT Bombay",
+    "institution": "IIT Bombay",
     "location": "India",
     "imageUrl": "Images/speakers/PrachiMahajan.png",
     "websiteUrl": "https://www.math.iitb.ac.in/~prachi/"
+  },
+  {
+    "name": "Sivaguru R",
+    "institution": "TIFR CAM Bangalore",
+    "location": "India",
+    "imageUrl": "Images/speakers/SivaguruR.png",
+    "websiteUrl": "https://www.math.tifrbng.res.in/people/sivaguru"
+  },
+{
+    "name": "Bappaditya Bhowmik",
+    "institution": "IIT Kharagpur",
+    "location": "India",
+    "imageUrl": "Images/speakers/Bhowmik.png",
+    "websiteUrl": " https://sites.google.com/site/bappadity1abhowmik/"
+  },
+{
+    "name": "Hiroshi Yanagihara",
+    "institution": "Yamaguchi University",
+    "location": "Japan",
+    "imageUrl": "Images/speakers/Yanagihara.png",
+    "websiteUrl": "https://www.researchgate.net/profile/Hiroshi-Yanagihara"
+  },
+
+  {
+    "name": "S. Ponnusamy",
+    "institution": "IIT Madras",
+    "location": "India",
+    "imageUrl": "Images/speakers/SPonnusamy.png",
+    "websiteUrl": "https://sites.google.com/view/ponnu8560/home"
+  },
+  {
+    "name": "Zhuang Wang",
+    "institution": "Hunan Normal University",
+    "location": "China",
+    "imageUrl": "Images/speakers/ZhuangWang.png",
+    "websiteUrl": "https://www.researchgate.net/profile/Zhuang-Wang-11"
   }
 ]
